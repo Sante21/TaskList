@@ -14,7 +14,7 @@
         <h1 class="text-3xl font-bold text-center mb-5">Lista de Tareas</h1>
 
         <div class="flex justify-end mb-4">
-            <a href="http://127.0.0.1:8000/create"
+            <a href="/create"
                 class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 font-semibold">
                 Crear Tarea Nueva
             </a>
